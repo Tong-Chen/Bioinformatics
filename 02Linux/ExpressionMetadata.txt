@@ -1,0 +1,9 @@
+Samp	Conditions	Diameters	Batch	Individual
+Untrt_N61311	untrt	1.75	A	N61311
+Untrt_N052611	untrt	1.7	A	N052611
+Untrt_N080611	untrt	2	C	N080611
+Untrt_N061011	untrt	1.8	C	N061011
+Trt_N61311	Trt	3	B	N61311
+Trt_N052611	Trt	3.1	D	N052611
+Trt_N080611	Trt	3.2	B	N080611
+Trt_N061011	Trt	3.1	D	N061011
